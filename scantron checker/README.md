@@ -14,5 +14,5 @@ To compile you need a compiler, you can choose your favorite. Some options that 
 <h3> Execution: </h3>
 After Compilation you can run it by:<br/>
 - Clicking on the file on windows with a gui. <br/>
-- Run it from the command prompt ``` start scantronchecker``` (make sure you're in the same folder)<br/>
+- Run it from the command prompt ```start scantronchecker/``` (make sure you're in the same folder)<br/>
 - On Linux after being in the same directory or setting path ```./scantronchecker```<br/>
