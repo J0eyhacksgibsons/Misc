@@ -1,8 +1,6 @@
 #include <iostream> 
 #include <string.h>
 using namespace std;
-void print(const string &);
-int  compare(const string &,const string &,string &);
 int main(int argc, char** argv){
     string key,answers,score;
     int keySiz = 21;
